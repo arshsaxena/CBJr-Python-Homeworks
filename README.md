@@ -8,6 +8,6 @@
 <b>Schedule</b><br>
 • <b>Frequency:</b> Twice a week <br>
 • <b>Duration:</b> 45-60 minutes <br>
-• <b>Days:</b> Wednesday and Friday <br>
+• <b>Days:</b> Sunday and Thursday <br>
 • <b>Timings:</b> 08:00 PM to 09:00 PM <br>
 • <b>Mentor(s):</b> Manmohan Bhaiya and <a href="https://www.github.com/rahulranghu">Rahul Bhaiya</a>
