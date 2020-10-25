@@ -1,4 +1,4 @@
-# VMC-CBJr-WebDevelopment-Homeworks
+# VMC-CBJr-Python-Homeworks
 <b>Arsh's VMC-CBJr Python Homeworks</b> <br>
 • <b>Start Date:</b> July 23, 2020 <br>
 • <b>End Date:</b> September 14, 2020 <br>
