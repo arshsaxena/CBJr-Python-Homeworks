@@ -2,7 +2,9 @@
 <b>Arsh's VMC-CBJr Python Homeworks</b> <br>
 • <b>Start Date:</b> July 23, 2020 <br>
 • <b>End Date:</b> September 14, 2020 <br>
+• <b>First Quiz:</b> September 12, 2020 <br>
 • <b>Last Quiz:</b> October 8, 2020 <br>
+• <b>Total Quizzes:</b> 03 <br>
 • <b>First Test Date:</b> October 18, 2020 <br>
 • <b>Second Test Date:</b> October 25, 2020 <br>
 • <b>Test Result Date:</b> TBD <br>
