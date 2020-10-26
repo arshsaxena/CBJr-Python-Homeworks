@@ -3,7 +3,10 @@
 • <b>Start Date:</b> July 23, 2020 <br>
 • <b>End Date:</b> September 14, 2020 <br>
 • <b>Last Quiz:</b> October 8, 2020 <br>
-• <b>Test Date:</b> October 18, 2020 <br>
+• <b>First Test Date:</b> October 18, 2020 <br>
+• <b>Second Test Date:</b> October 25, 2020 <br>
+• <b>Test Result Date:</b> TBD <br>
+• <b>Certificate Issued:</b> TBD <br>
 <br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Twice a week <br>
