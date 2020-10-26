@@ -6,7 +6,7 @@
 • <b>First Test Date:</b> October 18, 2020 <br>
 • <b>Second Test Date:</b> October 25, 2020 <br>
 • <b>Test Result Date:</b> TBD <br>
-• <b>Certificate Issued:</b> TBD <br>
+• <b>Certificate Issue Date:</b> TBD <br>
 <br>
 <b>Schedule</b><br>
 • <b>Frequency:</b> Twice a week <br>
